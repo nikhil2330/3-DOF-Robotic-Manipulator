@@ -14,11 +14,11 @@ The system is designed with **computer vision integration in mind**, as percepti
 
 ## Media
 
-[img1](images/1.jpeg)  
-[img2](images/2.jpeg)
+[img1](images/1.JPG)  
+[img2](images/2.JPG)
 
 **Demo Video:**  
-[Watch Here](images/3.mov)
+[Watch Here](images/3.MOV)
 
 ---
 
