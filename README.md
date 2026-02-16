@@ -14,11 +14,17 @@ The system is designed with **computer vision integration in mind**, as percepti
 
 ## Media
 
-![img1](images/1.JPG)  
-![img2](images/2.JPG)
+<p align="center">
+  <img src="images/1.JPG" width="400">
+  <img src="images/2.JPG" width="400">
+</p>
 
 **Demo Video:**  
-[Watch Here](images/3.MOV)
+<p align="center">
+  <a href="images/3.MOV">
+    [Watch Here]
+  </a>
+</p>
 
 ---
 
